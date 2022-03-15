@@ -18,6 +18,11 @@ https://user-images.githubusercontent.com/4176826/121184549-0e53a600-c81a-11eb-8
 ❌ Issue still remains that not all CFNetwork APIs (e.g. WKWebView and SFSafariViewController) honor iOS certificate pinning.
 - Tested with physical device iPhone 8 and iOS 15.3
 
+## Status 3/15/2022
+
+❌ Issue still remains that not all CFNetwork APIs (e.g. WKWebView and SFSafariViewController) honor iOS certificate pinning.
+- Tested with physical device iPhone 8 and iOS 15.4
+
 ## Background
 
 Nowadays Apple platforms (iOS 14.0+, macOS 11.0+) do provide certificate pinning simply by configuration: https://developer.apple.com/news/?id=g9ejcf8y
